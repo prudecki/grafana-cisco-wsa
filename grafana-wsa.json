@@ -17,7 +17,7 @@
       "pluginName": "OpenTSDB"
     }
   ],
-  "__requires": [
+  "__requires": [ 
     {
       "type": "datasource",
       "id": "elasticsearch",
