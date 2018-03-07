@@ -9,4 +9,4 @@ Plugins used:https://github.com/grafana/worldmap-panel
 
 Data sources: Elasticsearch and Zenoss5-OTSDB
 
-![alt text](https://github.com/prudecki/grafana-dashboards/blob/master/grafana_wsa.png)
+![alt text](https://github.com/prudecki/fluentd-cisco-wsa/blob/master/kibana-wsa.png)
