@@ -1,4 +1,4 @@
-# grafana-dashboards
+# grafana-cisco-wsa
 grafana dashboards for Cisco Web Security Appliance (WSA)
 
 Hello Github community,
